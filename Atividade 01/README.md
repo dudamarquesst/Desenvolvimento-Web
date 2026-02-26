@@ -19,7 +19,7 @@ Diferente da Web 1.0, onde cada interação exigia um recarregamento completo da
 ## 📊 Infográfico
 Abaixo, você pode conferir o infográfico que desenvolvemos para sintetizar esses conceitos:
 
-![Infográfico AJAX](./Infográfico - Engenharia AJAX.png) 
+![Infográfico AJAX](./infografico.png) 
 
 ## 🛠️ Ferramentas Utilizadas
 * **Canva:** Criação do design visual.
